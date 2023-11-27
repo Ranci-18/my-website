@@ -1,0 +1,22 @@
+#portfolio {
+    color: white;
+    text-align: center;
+}
+
+.project0,
+.project1,
+.project2,
+.project3,
+.project4,
+.project5,
+.project6 {
+    width: 40%;
+    box-shadow: white -5px -5px 5px, white 5px 5px 5px;
+    margin-bottom: 2rem;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

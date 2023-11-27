@@ -1,0 +1,20 @@
+#contact h1,
+#contact p {
+    text-align: center;
+}
+
+#contact svg {
+    position: relative;
+    left: 40%;
+}
+#contact {
+    background-color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+}

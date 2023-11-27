@@ -1,0 +1,30 @@
+#about {
+    background-color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#about h1,
+#about h2{
+    text-align: center;
+}
+
+.divStyle1, 
+.divStyle2,
+.divStyle3 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.divStyle1 p,
+.divStyle2 p{
+    box-shadow: black -5px -5px 5px, black 5px 5px 5px;
+    text-align: center;
+}
+
+.divStyle3 {
+    box-shadow: black -5px -5px 5px, black 5px 5px 5px;
+}

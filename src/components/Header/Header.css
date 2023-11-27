@@ -1,0 +1,74 @@
+.header {
+    width: 1rem;
+}
+.header > svg {
+    position: absolute;
+    top: 1.5%;
+    left: 1%;
+}
+.App-navbar ul {
+    display: flex;
+    list-style: none;
+    position: relative;
+    left: 2%;
+}
+
+.App-navbar ul li {
+    color: white;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.App-navbar ul li:hover {
+    transform: scale(1.1);
+    transition: 300ms ease-in-out;
+    color: black;
+}
+
+button {
+    border-radius: 10%;
+    margin-left: -2.5em;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+    .App-navbar ul li {
+        margin: auto 0.3em;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .App-navbar ul {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .App-navbar ul li {
+        margin: auto 0.3em;
+    }
+    .App-navbar ul {
+        display: flex;
+        justify-content: left;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .App-navbar ul li {
+        margin: auto 0.3em;
+    }
+    .App-navbar ul {
+        display: flex;
+        justify-content: left;
+    }
+}
