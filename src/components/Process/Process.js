@@ -15,6 +15,7 @@ export default function Process() {
             <li>I added the necessary content for the different components.</li>
             <li>I then jumped into the design work for each component using CSS.</li>
             <li>I optimized the project as a whole, adding final touches to it.</li>
+            <li>I had to change the build process to use <u>webpack</u> since I am familiar on the right way to set up the configuration file</li>
           </ul>
         </div>
     </section>
