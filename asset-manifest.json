@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ranci-18/my-website/static/css/main.ada7ebad.css",
+    "main.js": "/Ranci-18/my-website/static/js/main.b953ac68.js",
+    "static/js/787.61f74e33.chunk.js": "/Ranci-18/my-website/static/js/787.61f74e33.chunk.js",
+    "static/media/Frank2.jpg": "/Ranci-18/my-website/static/media/Frank2.988e8c7f0b6d1574a206.jpg",
+    "static/media/Resume.pdf": "/Ranci-18/my-website/static/media/Resume.ebd5987a0343e50c25e0.pdf",
+    "index.html": "/Ranci-18/my-website/index.html",
+    "main.ada7ebad.css.map": "/Ranci-18/my-website/static/css/main.ada7ebad.css.map",
+    "main.b953ac68.js.map": "/Ranci-18/my-website/static/js/main.b953ac68.js.map",
+    "787.61f74e33.chunk.js.map": "/Ranci-18/my-website/static/js/787.61f74e33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada7ebad.css",
+    "static/js/main.b953ac68.js"
+  ]
+}
