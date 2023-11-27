@@ -21,10 +21,10 @@
 }
 .divStyle1 p,
 .divStyle2 p{
-    box-shadow: black -5px -5px 5px, black 5px 5px 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 
 .divStyle3 {
-    box-shadow: black -5px -5px 5px, black 5px 5px 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }

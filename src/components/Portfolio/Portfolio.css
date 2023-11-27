@@ -11,7 +11,7 @@
 .project5,
 .project6 {
     width: 40%;
-    box-shadow: white -5px -5px 5px, white 5px 5px 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     margin-bottom: 2rem;
 }
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import picture from '../../Assets/Frank.jpg';
+import picture from '../../Assets/Frank2.jpg';
 import './Home.css';
 
 
@@ -10,7 +10,7 @@ export default function Home() {
         <h1>Home</h1>
       </div>
       <div className='home'>
-        <img src={picture} alt='' width={'180px'} height={'240px'} ></img>
+        <img src={picture} alt='' width={'180px'} height={'180px'} ></img>
         <div className='home-content'>
           <p>
           <i>
