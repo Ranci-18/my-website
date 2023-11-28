@@ -29,7 +29,9 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: 'public/index.html',
-            filename: './index.html'
+            filename: './index.html',
+            inject: true,
+            injectHead: (head, assets) => `${head} <link rel="icon" type="image/png" href="./web.png" />`,
         }),
     ],
     devServer: {
