@@ -1,16 +1,11 @@
 .header {
     width: 1rem;
 }
-.header > svg {
-    position: absolute;
-    top: 1.5%;
-    left: 1%;
-}
+
 .App-navbar ul {
     display: flex;
     list-style: none;
     position: relative;
-    left: 2%;
 }
 
 .App-navbar ul li {
