@@ -44,6 +44,8 @@ export default function Skills() {
         <ul>
           <li>Mobile first design</li>
           <li>Responsive Web Design</li>
+          <li>Single Page Applications</li>
+          <li>TypeScript</li>
         </ul>
     </section>
   )

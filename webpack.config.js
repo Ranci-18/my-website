@@ -32,4 +32,10 @@ module.exports = {
             filename: './index.html'
         }),
     ],
+    devServer: {
+        static: './public',
+        port: 3000,
+        open: true,
+        hot: true
+    }
 };

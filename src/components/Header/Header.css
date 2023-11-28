@@ -39,6 +39,10 @@ button {
         margin: auto 0.3em;
     }
 
+    .App-navbar ul li button {
+        margin-left: 0.5%;
+    }
+
     .header {
         display: flex;
         flex-direction: column;
@@ -54,6 +58,10 @@ button {
 @media screen and (max-width: 768px) {
     .App-navbar ul li {
         margin: auto 0.3em;
+    }
+
+    .App-navbar ul li button {
+        margin-left: 0.5%;
     }
     .App-navbar ul {
         display: flex;

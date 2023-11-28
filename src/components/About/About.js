@@ -42,6 +42,7 @@ export default function About() {
             web frontend technologies (CSS, HTML, SASS/SCSS, next.js, React, etc).
           </p>
         </div>
+        <h2>Further Professional Interests</h2>
         <div className='divStyle3'>
           <p>Apart from Software Engineering, I have equally deep interests in Network Security.
             I am taking online courses in Network Security and have plans to get into Ethical Hacking
